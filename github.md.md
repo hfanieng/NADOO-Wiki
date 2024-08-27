@@ -32,12 +32,12 @@ Diese Seite dient als Grundlage für Ihre ersten Schritte mit GitHub. Hier erfah
 
 Jede Anleitung wird in separaten Markdown-Dateien bereitgestellt:
 
-- [GitHub Konto anlegen](docs/Konto-anlegen.md)
-- [Repository erstellen](docs/Repo-erstellen.md)
-- [Forking und Branching](docs/Forking-Branching.md)
-- [GitHub Issues](docs/GitHub-Issues.md)
-- [Pull Requests](docs/Pull-Requests.md)
-- [Sterne und Beobachten](docs/Sterne-Beobachten.md)
+- [GitHub Konto anlegen](Konto-anlegen.md)
+- [Repository erstellen](Repo-erstellen.md)
+- [Forking und Branching](Forking-Branching.md)
+- [GitHub Issues](GitHub-Issues.md)
+- [Pull Requests](Pull-Requests.md)
+- [Sterne und Beobachten](Sterne-Beobachten.md)
 
 ## Vorschläge für Issues
 
