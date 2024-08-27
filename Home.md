@@ -6,11 +6,11 @@ Diese Wiki-Seite dient als umfassende Ressource, um Sie optimal auf den Bewerbun
 
 ## Übersicht der Inhalte
 
-- [**Teil 1: Organisatorische Grundlagen und Bewerbungsprozess**](#)
+- [**Teil 1: Organisatorische Grundlagen und Bewerbungsprozess**](teil-1-organisatorische-grundlagen-und-bewerbungsprozess.md)
 
-- [**Teil 2: Technische Grundlagen**](#)
+- [**Teil 2: Technische Grundlagen**](teil-2-technische-grundlagen.md)
 
-- [**Teil 3: Praktische Anwendung**](#)
+- [**Teil 3: Praktische Anwendung**](teil-3-praktische-anwendung.md)
 
 ## Nützliche Ressourcen
 
@@ -22,9 +22,9 @@ Diese Wiki-Seite dient als umfassende Ressource, um Sie optimal auf den Bewerbun
 
 Falls Sie Fragen haben oder auf Probleme stoßen, zögern Sie nicht, sich an unser Support-Team zu wenden. Sie können uns über Slack, E-Mail oder direkt über Gather.town erreichen.
 
-- **E-Mail:** support@example
+- **E-Mail:** support@example.com
 - **Gather.town Raum:** [Link zum Support-Raum](#)
 
 ## Nächste Schritte
 
-Sie sind nun bereit, mit dem ersten Teil des Tutorials zu beginnen. Starten Sie mit [Teil 1: Organisatorische Grundlagen und Bewerbungsprozess](#), um Ihre Arbeitsumgebung einzurichten und die Grundlagen für Ihre IT-Karriere zu legen.
+Sie sind nun bereit, mit dem ersten Teil des Tutorials zu beginnen. Starten Sie mit [Teil 1: Organisatorische Grundlagen und Bewerbungsprozess](teil-1-organisatorische-grundlagen-und-bewerbungsprozess.md), um Ihre Arbeitsumgebung einzurichten und die Grundlagen für Ihre IT-Karriere zu legen.
