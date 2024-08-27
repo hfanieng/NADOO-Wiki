@@ -7,19 +7,10 @@ Diese Wiki-Seite dient als umfassende Ressource, um Sie optimal auf den Bewerbun
 ## Übersicht der Inhalte
 
 - [**Teil 1: Organisatorische Grundlagen und Bewerbungsprozess**](#)
-  - [Gather.town & Virtuelle Zusammenarbeit](#)
-  - [GitHub: Erste Schritte](#)
-  - [Online-Kalender einrichten](#)
-  - [LinkedIn-Profil optimieren](#)
 
 - [**Teil 2: Technische Grundlagen**](#)
-  - [Einführung in die Programmierung](#)
-  - [Python-Grundlagen](#)
-  - [Versionskontrolle mit Git](#)
 
 - [**Teil 3: Praktische Anwendung**](#)
-  - [Projektarbeit](#)
-  - [Entwicklung einer Stempeluhr mit Toga](#)
 
 ## Nützliche Ressourcen
 
