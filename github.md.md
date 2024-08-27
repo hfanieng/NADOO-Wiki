@@ -32,7 +32,7 @@ Diese Seite dient als Grundlage für Ihre ersten Schritte mit GitHub. Hier erfah
 
 Jede Anleitung wird in separaten Markdown-Dateien bereitgestellt:
 
-- [GitHub Konto anlegen](GitHub Konto anlegen)
+- [GitHub Konto anlegen](GitHub-Konto-anlegen.md)
 - [Repository erstellen](Repo-erstellen.md)
 - [Forking und Branching](Forking-Branching.md)
 - [GitHub Issues](GitHub-Issues.md)
