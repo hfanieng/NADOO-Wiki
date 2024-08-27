@@ -4,7 +4,7 @@ In diesem Abschnitt legen wir den Grundstein für Ihre IT-Karriere. Der Fokus li
 
 ## Themen:
 
-1. [**Gather.town & virtuelle Zusammenarbeit**](gather-town-und-virtuelle-zusammenarbeit.md)
+1. [**Gather.town & Virtuelle Zusammenarbeit**](gather-town-virtuelle-zusammenarbeit.md)
     - Einführung in die Nutzung unserer Online-Videoplattform Gather.town.
     - Erstellen eines eigenen virtuellen Raums für Gruppenarbeit und Besprechungen.
     - Permanente Raum-Links und Gruppenarbeit in virtuellen Räumen.
