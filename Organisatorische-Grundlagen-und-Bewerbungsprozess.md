@@ -1,4 +1,3 @@
-# Organisatorische Grundlagen und Bewerbungsprozess
 
 In diesem Abschnitt legen wir den Grundstein für Ihre IT-Karriere. Der Fokus liegt auf organisatorischen und beruflichen Fähigkeiten, die Ihnen helfen, sich optimal auf den Bewerbungsprozess vorzubereiten. Der Abschnitt ist bewusst flexibel gestaltet, um Ihnen maximale Anpassungsfähigkeit zu bieten. Durch visuelle Diagramme mit Hauptabschnitten und unterschiedlichen Pfaden je nach Wissensstand und Präferenzen können Sie sich individuell weiterentwickeln. Ein Skillboard unterstützt Sie dabei, Ihre Fähigkeiten zu erweitern und zu vertiefen.
 
