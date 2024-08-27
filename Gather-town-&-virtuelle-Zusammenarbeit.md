@@ -1,4 +1,4 @@
-# Gather.town & Virtuelle Zusammenarbeit
+# Gather town & Virtuelle Zusammenarbeit
 
 Gather.town ist unsere Online-Videoplattform für virtuelle Zusammenarbeit. In diesem Abschnitt lernen Sie, wie Sie einen eigenen virtuellen Raum erstellen und effektiv nutzen.
 
