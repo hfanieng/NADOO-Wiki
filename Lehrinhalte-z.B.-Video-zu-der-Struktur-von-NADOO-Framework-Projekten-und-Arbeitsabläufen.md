@@ -1,0 +1,1 @@
+Wie arbeitet ein Softwareentwickler im Framework und was sind die Arbeitsprozesse. Am besten auch diese direkt bennen damit eine klare Stuktur besteht wie jemand der diese nicht schon verinnerlicht hat an der man sich orientieren kann.
