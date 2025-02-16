@@ -1,0 +1,51 @@
+---
+name: Fehlerbericht
+description: Einen Fehlerbericht einreichen.
+title: "[Fehler]: "
+labels: ["bug", "documentation"]
+projects: ["@hhib_orgnize_project"]
+assignees: ["@hfanieng"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Vielen Dank, dass du dir die Zeit nimmst, diesen Fehlerbericht auszufüllen!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Was ist passiert?
+      description: Erzähle uns außerdem, was du erwartet hast.
+      placeholder: Beschreibe, was du siehst!
+      value: "Ein Fehler ist aufgetreten!"
+    validations:
+      required: true
+  - type: dropdown
+    id: Betriebssystem
+    attributes:
+      label: Betriebssystem
+      description: Welches Betriebssystem verwendest du?
+      options:
+        - Windows 10 Pro
+        - Windows 10 Home
+        - Windows 11 Pro
+        - Windows 11 Home
+        - MacOS
+      default: 0
+    validations:
+      required: true
+  - type: dropdown
+    id: browsers
+    attributes:
+      label: In welchen Browsern tritt das Problem auf?
+      multiple: true
+      options:
+        - Firefox
+        - Chrome
+        - Safari
+        - Microsoft Edge
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevante Log-Ausgabe
+      description: Bitte füge die relevante Log-Ausgabe ein. Diese wird automatisch als Code formatiert, daher sind keine Backticks notwendig.
+      render: shell
