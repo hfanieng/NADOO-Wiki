@@ -3,7 +3,7 @@ name: Fehlerbericht
 description: Einen Fehlerbericht einreichen.
 title: "[Fehler]: "
 labels: ["bug", "documentation"]
-projects: ["@hhib_orgnize_project"]
+projects: ["@wiki"]
 assignees: ["@hfanieng"]
 body:
   - type: markdown

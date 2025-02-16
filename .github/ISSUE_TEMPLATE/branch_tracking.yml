@@ -1,0 +1,58 @@
+name: "Branch Tracking Template"
+description: "Verfolge den Fortschritt eines Branches"
+title: "Branch: [branch-name]"
+labels:
+  - enhancement
+body:
+  - type: input
+    id: branch_name
+    attributes:
+      label: "Branch"
+      description: "[branch-name]"
+  - type: input
+    id: created_at
+    attributes:
+      label: "Erstellt am"
+      description: "[YYYY-MM-DD]"
+  - type: input
+    id: issue_ref
+    attributes:
+      label: "Issue"
+      description: "#[issue-number]"
+  - type: dropdown
+    id: status
+    attributes:
+      label: "Status"
+      options:
+        - Active
+        - Completed
+        - Abandoned
+  - type: checkboxes
+    id: environment
+    attributes:
+      label: "Environment"
+      options:
+        - label: "Python version: [version]"
+        - label: "Virtual env: .venv-[branch-name]"
+        - label: "Key dependencies: [list major dependencies]"
+  - type: checkboxes
+    id: progress_tracking
+    attributes:
+      label: "Progress Tracking"
+      options:
+        - label: "Virtual environment created"
+        - label: "Initial tests written"
+        - label: "First implementation attempt"
+        - label: "Tests passing"
+        - label: "Code reviewed"
+        - label: "Ready for merge"
+  - type: textarea
+    id: milestones
+    attributes:
+      label: "Milestones"
+      description: "1. [First major milestone], 2. [Second major milestone], ..."
+  - type: textarea
+    id: notes
+    attributes:
+      label: "Notes"
+      description: "[Important decisions, details, challenges]"

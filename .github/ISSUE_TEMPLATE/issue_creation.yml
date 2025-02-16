@@ -1,0 +1,41 @@
+name: "Issue Template"
+description: "Erstelle ein neues Issue basierend auf diesem Formular."
+title: "[BUG] - "
+labels:
+  - bug
+body:
+  - type: input
+    id: error_type
+    attributes:
+      label: "Error Type"
+      description: "[Error class/type]"
+  - type: input
+    id: error_message
+    attributes:
+      label: "Error Message"
+      description: "[Exact error message]"
+  - type: input
+    id: error_location
+    attributes:
+      label: "Location"
+      description: "[File and line number]"
+  - type: checkboxes
+    id: current_state
+    attributes:
+      label: "Current State"
+      options:
+        - label: "Branch created: [branch-name]"
+        - label: "Initial test written"
+        - label: "Debug information added"
+  - type: textarea
+    id: progress
+    attributes:
+      label: "Progress"
+      description: "Attempted solutions (z.B. 1. [First attempt], 2. [Second attempt], ... )"
+  - type: checkboxes
+    id: next_steps
+    attributes:
+      label: "Next Steps"
+      options:
+        - label: "Current plan of action"
+        - label: "Required changes"
