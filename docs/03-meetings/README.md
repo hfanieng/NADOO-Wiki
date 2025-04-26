@@ -2,7 +2,7 @@
 
 Unsere Meetings fördern effiziente Zusammenarbeit, kontinuierliches Lernen und transparente Kommunikation.
 
-Im Folgenden findest du die aktualisierten Strukturen.
+Im Folgenden findest du die unsere Meeting-Strukturen und Zeitpläne, die dir helfen, den Überblick zu behalten 🚀
 
 ---
 
