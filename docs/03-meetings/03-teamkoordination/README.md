@@ -1,4 +1,4 @@
-# Teamkordinator:innen-Meeting
+# Teamkoordinator:innen-Meeting
 
 - An den Teamkordinator:innen-Meetings nehmen alle Teamkoordinator:innen teil.
 - Diese Meetings sind freiwillig für die 3er-Teams.
