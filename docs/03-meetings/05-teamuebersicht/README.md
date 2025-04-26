@@ -55,7 +55,7 @@ Es sorgt dafür, dass die Projekte den Anforderungen der Kunden entsprechen und 
 
 Das 3er Team Dokumentation ist für das Schreiben und die Pflege von Dokumentationen verantwortlich.
 
-- **Mitarbeitende:** n.n.
+- **Mitarbeitende:** n.n. , [Heiko](https://github.com/hfanieng)
 - **Discord:** [Dokumentation](https://discord.com/channels/1299292608744390707/1364905809972035605)
 
 ---
@@ -73,5 +73,5 @@ Das 3er Team Testing ist für das Testen von Software verantwortlich.
 
 Das 3er Team Regulation & Recht (Compliance/Regulatory Affairs) ist für die Entwicklung und Pflege von Projekten verantwortlich, die sich mit der Einhaltung von Vorschriften und Gesetzen beschäftigen.
 
-- **Mitarbeitende:** n.n, [Heiko Fanieng](https://github.com/hfanieng)
+- **Mitarbeitende:** n.n, [Heiko](https://github.com/hfanieng)
 - **Discord:** [Dokumentation & Testing](https://discord.com/channels/1299292608744390707/1364905809972035605)
