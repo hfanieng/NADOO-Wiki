@@ -75,3 +75,21 @@ Das 3er Team Regulation & Recht (Compliance/Regulatory Affairs) ist für die Ent
 
 - **Mitarbeitende:** n.n, [Heiko](https://github.com/hfanieng)
 - **Discord:** [Dokumentation & Testing](https://discord.com/channels/1299292608744390707/1364905809972035605)
+
+---
+
+## Ausbildungsnachweise (abgeschlossen)
+
+Das 11er Team hat die Implementierung der Ausbildungsnachweise in das NADOO-Launchpad erfolgreich abgeschlossen 🚀
+
+- **Mitarbeitende:** [Majid](https://github.com/majdAlmotaem), [Heiko](https://github.com/hfanieng)
+
+---
+
+## Zeiterfassung (abgeschlossen)
+
+Das 11er Team hat die Implementierung der Zeiterfassung in das NADOO-Launchpad erfolgreich abgeschlossen 🚀
+
+- **Mitarbeitende:** [Tanja](https://github.com/Kretta), [Heiko](https://github.com/hfanieng)
+
+---
