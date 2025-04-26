@@ -1,4 +1,4 @@
-# Übersicht der aktuellen 11er-Teams
+# Übersicht der 11er-Teams und deren Projekte
 
 | |
 | :--- |
@@ -48,3 +48,14 @@ Es sorgt dafür, dass die Projekte den Anforderungen der Kunden entsprechen und 
 - **Teamziel:** Entwicklung und Pflege von Projekten, die sich mit der Qualität von Code und der Forschung zu neuen Technologien beschäftigen.
 - **Koordination:** n.n, [Heiko Fanieng](https://github.com/hfanieng)
 - **Discord:** [Code Qualität & Research](https://discord.com/channels/1299292608744390707/1330882785539260447)
+
+---
+
+### Dokumentation & Testing
+
+Das 3er Team Dokumentation & Testing ist für die Entwicklung und Pflege von Projekten verantwortlich, die sich mit der Dokumentation und dem Testen von Software beschäftigen.
+
+- **Mitarbeitende:** n.n.
+- **Discord:** [Dokumentation & Testing](https://discord.com/channels/1299292608744390707/1364905809972035605)
+
+---
