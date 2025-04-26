@@ -273,6 +273,20 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
+<!-- Kommunikation -->
+
+## 📞 Kommunikation
+
+<details>
+<summary>🔹 Tools & Voraussetzungen</summary>
+
+- 🔹 [Discord](docs/04-kommunikation/README.md) - zentrale Kommunikationsplattform der NADOO-IT
+- 🔹 [Video- & Bildschirmübertragung](/docs/04-kommunikation/02-webcam/README.md)
+
+---
+
+
+
 <details>
 <summary>3.13 Python - Programmiersprache (Archiv)</summary>
 
