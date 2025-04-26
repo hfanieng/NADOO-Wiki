@@ -33,4 +33,4 @@
 
 ---
 
-[Zurück](/docs/02-tools/05-ki/02-gemini/README.md) | [Weiter](../2/README.md)
+[Zurück](/docs/02-tools/05-ki/02-gemini/README.md) | [Weiter](../02-11er/README.md)
