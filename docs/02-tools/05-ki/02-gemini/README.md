@@ -1,4 +1,4 @@
-# 3.10.1 Nutzung der Gemini API – Anleitung
+# Nutzung der Gemini API – Anleitung
 
 Die Gemini API von Google ermöglicht Entwicklern den Zugriff auf fortschrittliche KI-Funktionen. Diese Anleitung bietet eine Übersicht zur Einrichtung und Nutzung der API, einschließlich Informationen zur Authentifizierung mittels API-Schlüssel, den verfügbaren kostenlosen Nutzungskontingenten und den entsprechenden Limits.
 
