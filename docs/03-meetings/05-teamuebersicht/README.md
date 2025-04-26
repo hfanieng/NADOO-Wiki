@@ -59,3 +59,10 @@ Das 3er Team Dokumentation & Testing ist für die Entwicklung und Pflege von Pro
 - **Discord:** [Dokumentation & Testing](https://discord.com/channels/1299292608744390707/1364905809972035605)
 
 ---
+
+### Regulation & Recht (Compliance/Regulatory Affairs)
+
+Das 3er Team Regulation & Recht (Compliance/Regulatory Affairs) ist für die Entwicklung und Pflege von Projekten verantwortlich, die sich mit der Einhaltung von Vorschriften und Gesetzen beschäftigen.
+
+- **Mitarbeitende:** n.n, [Heiko Fanieng](https://github.com/hfanieng)
+- **Discord:** [Dokumentation & Testing](https://discord.com/channels/1299292608744390707/1364905809972035605)
