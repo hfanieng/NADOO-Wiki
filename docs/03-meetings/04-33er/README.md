@@ -31,4 +31,4 @@ Zeit | Phase | Beschreibung
 
 ---
 
-[Zurück](../03-teamkoordination/README.md) | [Weiter](../../3/README.md)
+[Zurück](../03-teamkoordination/README.md) | [Weiter](../05-teamuebersicht/README.md)

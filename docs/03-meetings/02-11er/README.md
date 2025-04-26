@@ -53,4 +53,4 @@ Pro 3er-Team:
 
 ---
 
-[Zurück](../01-allgemein-morgens/README.md) | [Weiter](../3/README.md)
+[Zurück](../01-allgemein-morgens/README.md) | [Weiter](../03-teamkoordination/README.md)
