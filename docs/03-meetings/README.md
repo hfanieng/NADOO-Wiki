@@ -18,4 +18,4 @@ Im Folgenden findest du die unsere Meeting-Strukturen und Zeitpläne, die dir he
 
 ---
 
-[Startseite](../../README.md) | [Weiter](1/README.md)
+[Weiter](/docs/03-meetings/01-allgemein-morgens/README.md)
