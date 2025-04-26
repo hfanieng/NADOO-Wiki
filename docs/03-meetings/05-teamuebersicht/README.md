@@ -1,4 +1,4 @@
-# Übersicht der 11er-Teams und deren Projekte
+# Übersicht der 11er-Teams und der aktuellen/abgeschlossenen Projekte
 
 | |
 | :--- |
@@ -13,7 +13,7 @@ Launch ist das erste Team, das in der 33er-Organisation gegründet wurde.
 Es hat die Aufgabe, die Grundlagen für die Organisation zu schaffen und die ersten Schritte in Richtung einer erfolgreichen Zusammenarbeit zu gehen.
 
 - **Teamziel:** Onboarding neuer Mitglieder und Unterstützung bei der Erstellung von Wiki-Inhalten.
-- **Koordination:** n.n.
+- **Aktuelle Ansprechpartner:innen:** [Cheryl](https://github.com/cherylugbogu), [Monika](https://github.com/Monika32025), [Alexander P.](https://github.com/cosinus-a), [Heiko](https://github.com/hfanieng) und [Tim H.](https://github.com/TimHellmig)
 - **Discord:** [Launch](https://discord.com/channels/1299292608744390707/1336295583350259762)
 
 ---
@@ -46,17 +46,26 @@ Das Team Code Qualität & Research ist für die Entwicklung und Pflege von Proje
 Es sorgt dafür, dass die Projekte den Anforderungen der Kunden entsprechen und die Qualität der Software hoch bleibt.
 
 - **Teamziel:** Entwicklung und Pflege von Projekten, die sich mit der Qualität von Code und der Forschung zu neuen Technologien beschäftigen.
-- **Koordination:** n.n, [Heiko Fanieng](https://github.com/hfanieng)
+- **Koordination:** n.n, [Heiko](https://github.com/hfanieng)
 - **Discord:** [Code Qualität & Research](https://discord.com/channels/1299292608744390707/1330882785539260447)
 
 ---
 
-### Dokumentation & Testing
+### Dokumentation
 
-Das 3er Team Dokumentation & Testing ist für die Entwicklung und Pflege von Projekten verantwortlich, die sich mit der Dokumentation und dem Testen von Software beschäftigen.
+Das 3er Team Dokumentation ist für das Schreiben und die Pflege von Dokumentationen verantwortlich.
 
 - **Mitarbeitende:** n.n.
-- **Discord:** [Dokumentation & Testing](https://discord.com/channels/1299292608744390707/1364905809972035605)
+- **Discord:** [Dokumentation](https://discord.com/channels/1299292608744390707/1364905809972035605)
+
+---
+
+### Testing
+
+Das 3er Team Testing ist für das Testen von Software verantwortlich.
+
+- **Mitarbeitende:** n.n., [Monika](https://github.com/Monika32025)
+- **Discord:** [Testing](https://discord.com/channels/1299292608744390707/1364905978411356170)
 
 ---
 
