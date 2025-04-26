@@ -25,7 +25,7 @@ NADOO-Wiki/
 │   │   │   ├── 02-pull-requests/
 │   │   │   │   └── 01-merge-konflikte/
 │   │   │   ├── 01-ssues/
-│   │   │   │   ├── 01-abels/
+│   │   │   │   ├── 01-labels/
 │   │   │   │   ├── 02-types/
 │   │   │   │   ├── 03-assignees/
 │   │   │   │   ├── 04-milestones/
