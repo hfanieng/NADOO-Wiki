@@ -384,10 +384,7 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ###### [5.3.4 Online-Kalender mit Doodle einrichten und in LinkedIn-Profil integrieren](docs/5/3/4/README.md)
 
-##### [5.4 Teamkoordination](docs/5/4/README.md)
-
 ---
-
 
 ### [7. Datenschutz & Datensicherheit](docs/7/README.md)
 
