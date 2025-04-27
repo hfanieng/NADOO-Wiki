@@ -349,6 +349,34 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
+<!-- Methoden -->
+
+## 📚 Methoden
+
+<details>
+<summary>🔹 Projekt- und Zeitmanagement</summary>
+
+- 🔹 [Zeitmanagement](/docs/06-methoden/01-zeitmanagement/README.md)
+- 🔹 [Planung](/docs/06-methoden/02-planung/README.md)
+  - 🔹 [Antrag](/docs/06-methoden/02-planung/01-antrag/README.md)
+
+#### [6.6 Projektphasen](docs/6/6/README.md)
+
+#### [6.7 Projektstruktur](docs/6/7/README.md)
+
+#### [6.8 Abschlussprojekt](docs/6/8/README.md)
+
+#### 6.9 Projektbudget
+
+#### 6.10 Projektcontrolling
+
+#### 6.11 Projektabschluss
+
+</details>
+
+---
+
+
 #### [5. Weiterbildung & Karriereentwicklung](docs/5/README.md)
 
 ##### 5.1 Jobrotationsverfahren
@@ -369,33 +397,6 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ---
 
-### 6. Projektmanagement & Zeitmanagement
-
-#### [6.1 Zeitmanagement](docs/6/1/README.md)
-
-#### [6.2 Projektmanagement](docs/6/2/README.md)
-
-#### 6.3 Scrum
-
-#### 6.4 Kanban
-
-#### [6.5 Projektplanung](docs/6/5/README.md)
-
-##### [6.5.1 Projektantrag](docs/6/5/1/README.md)
-
-#### [6.6 Projektphasen](docs/6/6/README.md)
-
-#### [6.7 Projektstruktur](docs/6/7/README.md)
-
-#### [6.8 Abschlussprojekt](docs/6/8/README.md)
-
-#### 6.9 Projektbudget
-
-#### 6.10 Projektcontrolling
-
-#### 6.11 Projektabschluss
-
----
 
 ### [7. Datenschutz & Datensicherheit](docs/7/README.md)
 
