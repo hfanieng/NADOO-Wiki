@@ -284,3 +284,7 @@ Citations:
 🔗 <https://www.uni-regensburg.de/assets/physik/fakultaet/IT/Tutorials-Installation-Programming-Environment/Programmieren_Python.pdf>
 🔗 <https://programmierkonzepte.ch>
 🔗 <https://www.amazon.de/Konzepte-Python-Programmierung-F%C3%BCr-Einsteiger-Studenten/dp/6207000102>
+
+---
+
+[Zurück](../03-java/README.md) | [Weiter](../04-python/01-debugging/README.md) zu Python-Debugging
