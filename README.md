@@ -282,6 +282,8 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 - 🔹 [Discord](docs/04-kommunikation/README.md) - zentrale Kommunikationsplattform der NADOO-IT
 - 🔹 [Video- & Bildschirmübertragung](/docs/04-kommunikation/02-webcam/README.md)
+  - 🔹 [Android - Smartphone als Webcam nutzen](docs/04-kommunikation/02-webcam/01-droidcam/README.md)
+  - 🔹 [iOS und MacOS Integrationskamera](docs/04-kommunikation/02-webcam/02-ios/README.md)
 
 ---
 
