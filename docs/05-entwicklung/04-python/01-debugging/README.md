@@ -1,4 +1,4 @@
-# 3.13.1 Debugging in Python
+# Debugging in Python
 
 Debugging ist ein wesentlicher Teil des Programmierprozesses. In diesem Abschnitt werden wir verschiedene Debugging-Techniken anhand eines fehlerhaften Skripts erlernen.
 

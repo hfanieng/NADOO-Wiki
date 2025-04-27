@@ -1,4 +1,4 @@
-# 3.13.2 Praktische Umsetzung mit NADOO-Launchpad
+# Praktische Umsetzung mit NADOO-Launchpad
 
 - Schau Dir dieses Video an:
 

@@ -1,4 +1,4 @@
-# 3.14.1 Debuggen und Fehlerbehandlung in Briefcase & Toga
+# Debuggen und Fehlerbehandlung in Briefcase & Toga
 
 Fehler sind ein natürlicher Teil des Entwicklungsprozesses. Sie zeigen Dir, wo Du Deine Annahmen überprüfen und Deinen Code verbessern musst. In diesem Abschnitt wirst Du lernen, wie Du Fehler effektiv identifizierst, analysierst und behebst.
 
