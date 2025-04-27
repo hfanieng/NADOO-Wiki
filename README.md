@@ -293,6 +293,14 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 
 ## 💻 Entwicklung & Programmiersprachen
 
+<!-- Dokumentation -->
+
+<details>
+<summary>🔹 Dokumentation</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/01-dokumentation/README.md)
+</details>
+
 <!-- Python -->
 
 <details>
@@ -306,29 +314,6 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
   - 🔹 [Speech‐to‐Text‐Feature im NADOO Launchpad](docs/05-entwicklung/04-python/02-briefcase-toga/03-speech-to-text/README.md)  
 
 </details>
-
----
-
-<details>
-<summary>3.14 Briefcase & Toga - Python-Framework für plattformübergreifende Apps (Archiv)</summary>
-
-- [3.14.1 Debugging](docs/3/14/1/README.md)  
-
-</details>
-
----
-
-#### [4. Kommunikation & Zusammenarbeit](docs/4/README.md)
-
-##### [4.1 Discord](docs/4/1/README.md) - zentrale Kommunikationsplattform
-
-###### [4.1.1 Discord - Einrichten und Anmelden](docs/4/1/1/README.md)
-
-##### [4.3 Video/Avatar-Pflicht](docs/4/3/README.md)
-
-###### [4.3.1 Android - Smartphone als Webcam nutzen](docs/4/3/1/README.md)
-
-##### [4.4 Feedback-Kultur](docs/4/4/README.md)
 
 ---
 
