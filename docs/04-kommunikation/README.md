@@ -10,8 +10,7 @@ Nutze die bereitgestellten Sprach- und Textkanäle, um effizient zusammenzuarbei
 
 ## Videoübertragung
 
-- Die Videoübertragung während der Meetings ist zeigt, das du dem professionellem Anspruch in der digitalen Zusammenarbeit gerecht wirst.
-- Die Videoübertragung ist wichtig, um eine persönliche Verbindung herzustellen und Missverständnisse zu vermeiden.
+- Die Videoübertragung während der Meetings zeigt, dass du dem professionellen Anspruch in der digitalen Zusammenarbeit gerecht wirst.
 – alternativ können virtuelle Avatare wie [Animaze](https://www.animaze.us) eingesetzt werden.
 
 ---
