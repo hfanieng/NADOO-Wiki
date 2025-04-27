@@ -285,41 +285,67 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
   - 🔹 [Android - Smartphone als Webcam nutzen](docs/04-kommunikation/02-webcam/01-droidcam/README.md)
   - 🔹 [iOS und MacOS Integrationskamera](docs/04-kommunikation/02-webcam/02-ios/README.md)
 
----
-
-
-
-<details>
-<summary>3.13 Python - Programmiersprache (Archiv)</summary>
-
-- [3.13.1 Debugging](docs/3/13/1/README.md)  
-- [3.13.2 Praktische Umsetzung mit NADOO-Launchpad](docs/3/13/2/README.md)  
-- [3.13.3 Speech‐to‐Text‐Feature im NADOO Launchpad](docs/3/13/3/README.md)  
-
 </details>
 
 ---
 
-<details>
-<summary>3.14 Briefcase & Toga - Python-Framework für plattformübergreifende Apps (Archiv)</summary>
+<!-- Entwicklung & Programmiersprachen -->
 
-- [3.14.1 Debugging](docs/3/14/1/README.md)  
+## 💻 Entwicklung & Programmiersprachen
+
+<!-- Dokumentation -->
+
+<details>
+<summary>🔹 Dokumentation</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/01-dokumentation/README.md)
+</details>
+
+<!-- Clean Architecture -->
+
+<details>
+<summary>🔹 Clean Architecture</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/02-clean-architecture/README.md)
+</details>
+
+<!-- Java -->
+
+<details>
+<summary>🔹 Java</summary>
+
+- 🔹 [Übersicht](docs/05-entwicklung/03-java/README.md)
+</details>
+
+<!-- Python -->
+
+<details>
+<summary> 🔹 Python</summary>
+
+- 🔹 [Installation](docs/05-entwicklung/04-python/README.md)
+- 🔹 [Debugging](docs/05-entwicklung/04-python/01-debugging/README.md)  
+- 🔹 [Briefcase & Toga - Python-Framework für plattformübergreifende Apps](docs/05-entwicklung/04-python/02-briefcase-toga/README.md)
+  - 🔹 [Briefcase-Debugging](docs/05-entwicklung/04-python/02-briefcase-toga/01-debugging/README.md)  
+  - 🔹 [Praktische Umsetzung mit NADOO-Launchpad](docs/05-entwicklung/04-python/02-briefcase-toga/02-launchpad/README.md)  
+  - 🔹 [Speech‐to‐Text‐Feature im NADOO Launchpad](docs/05-entwicklung/04-python/02-briefcase-toga/03-speech-to-text/README.md)  
 
 </details>
 
----
+<!-- Die eigene App -->
 
-#### [4. Kommunikation & Zusammenarbeit](docs/4/README.md)
+<details>
+<summary>🔹 Die eigene App</summary>
 
-##### [4.1 Discord](docs/4/1/README.md) - zentrale Kommunikationsplattform
+- 🔹 [Übersicht](docs/05-entwicklung/05-eigene-app/README.md)
+</details>
 
-###### [4.1.1 Discord - Einrichten und Anmelden](docs/4/1/1/README.md)
+<!-- Orte zum Arbeiten und Lernen -->
 
-##### [4.3 Video/Avatar-Pflicht](docs/4/3/README.md)
+<details>
+<summary>🔹 Orte zum Arbeiten und Lernen</summary>
 
-###### [4.3.1 Android - Smartphone als Webcam nutzen](docs/4/3/1/README.md)
-
-##### [4.4 Feedback-Kultur](docs/4/4/README.md)
+- 🔹 [Übersicht](docs/05-entwicklung/06-lernen-arbeiten/README.md)
+</details>
 
 ---
 
@@ -386,15 +412,4 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 ### [11. Das NADOO-IT Framework](docs/11/README.md)
 
 ---
-
-### Dokumentation
-
-### Clean Architecture
-
-### Einstieg mit der eigenen App
-
-## Mögliche interessante Orte zum Arbeiten und Lernen
-
----
-
-| [Weiter](docs/1/README.md)
+[Weiter](/docs/00-willkommen/README.md) zum Wiki
