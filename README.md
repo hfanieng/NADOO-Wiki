@@ -359,18 +359,9 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 - 🔹 [Zeitmanagement](/docs/06-methoden/01-zeitmanagement/README.md)
 - 🔹 [Planung](/docs/06-methoden/02-planung/README.md)
   - 🔹 [Antrag](/docs/06-methoden/02-planung/01-antrag/README.md)
-
-#### [6.6 Projektphasen](docs/6/6/README.md)
-
-#### [6.7 Projektstruktur](docs/6/7/README.md)
-
-#### [6.8 Abschlussprojekt](docs/6/8/README.md)
-
-#### 6.9 Projektbudget
-
-#### 6.10 Projektcontrolling
-
-#### 6.11 Projektabschluss
+- 🔹 [Projektmanagement](/docs/06-methoden/03-projektmanagement/README.md)
+- 🔹 [Phasen](/docs/06-methoden/04-phasen/README.md)
+- 🔹 [Abschluss](/docs/06-methoden/05-abschluss/README.md)
 
 </details>
 
