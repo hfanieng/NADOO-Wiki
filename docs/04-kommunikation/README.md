@@ -1,26 +1,22 @@
-# 4. Kommunikation & Zusammenarbeit
+# Kommunikation & Zusammenarbeit
 
-## [4.1 Discord als zentrales Tool](/docs/4/1/1/README.md)  
+## Discord als zentrales Tool
 
 Unsere interne Kommunikation erfolgt über Discord.
 
 Nutze die bereitgestellten Sprach- und Textkanäle, um effizient zusammenzuarbeiten.
----
-
-## 4.3. Videopflicht
-
-Die Videoübertragung während der Meetings ist Pflicht – alternativ können virtuelle Avatare wie [Animaze](https://www.animaze.us) eingesetzt werden.
 
 ---
 
-## [4.4 Feedback-Kultur](/docs/4/4/README.md)
+## Videoübertragung
 
-- Jede Rückmeldung ist willkommen und ausdrücklich erwünscht!
-- Wir sind ein Team, das sich gegenseitig unterstützt und gemeinsam wächst. 
-- **Feedback ist der Schlüssel zu unserem Erfolg!**
-
-Dokumentiere Deine Ideen und Probleme über den ["Issue-first"](https://github.com/NADOOIT/NADOO-Wiki/issues/new/choose)-Ansatz in GitHub, um kontinuierliche Verbesserungen zu erzielen.
+- Die Videoübertragung während der Meetings zeigt, dass du dem professionellen Anspruch in der digitalen Zusammenarbeit gerecht wirst.
+– alternativ können virtuelle Avatare wie [Animaze](https://www.animaze.us) eingesetzt werden.
 
 ---
 
-[Startseite](../../README.md)
+## Bildschirmübertragung
+
+Die Bildschirmübertragung sollte in allen Meetings aktiviert sein, um den Austausch von Informationen zu erleichtern.
+
+---
