@@ -412,15 +412,4 @@ Herzlich willkommen zu Deinem Einstieg in deine IT-Karriere bei uns!
 ### [11. Das NADOO-IT Framework](docs/11/README.md)
 
 ---
-
-### Dokumentation
-
-### Clean Architecture
-
-### Einstieg mit der eigenen App
-
-## Mögliche interessante Orte zum Arbeiten und Lernen
-
----
-
-| [Weiter](docs/1/README.md)
+[Weiter](/docs/00-willkommen/README.md) zum Wiki
