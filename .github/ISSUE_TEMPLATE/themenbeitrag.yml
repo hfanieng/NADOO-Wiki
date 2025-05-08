@@ -45,9 +45,8 @@ body:
   - type: textarea
     id: aufgaben
     attributes:
-      label: Drei Aufgabenstellungen zum Beitrag
-    validations:
-      required: true
+      label: Hinweis zu Aufgabenstellungen
+      description: Bitte reiche die Aufgaben separat über das Template **📝 Aufgabenbeitrag einreichen** als weiteres Issue ein.
 
   - type: checkboxes
     id: einverstaendnis
