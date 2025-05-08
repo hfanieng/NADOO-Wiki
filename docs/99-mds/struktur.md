@@ -10,43 +10,35 @@ Ja, absolut sinnvoll! Bei 200+ Tags und mehreren Aufgaben pro Thema ist es besse
 
 ## Empfohlene Projektstruktur
 
-```plaintext
-/docs
-├── 09-katalog
-│   ├── ap1
-│   │   ├── projektmanagement
-│   │   │   └── README.mdx
-│   │   ├── wirtschaftlichkeit
-│   │   │   └── README.mdx
-│   │   └── ...
-│   ├── ap2
-│   │   ├── versionsverwaltung
-│   │   │   └── README.mdx
-│   │   ├── programmierung
-│   │   │   └── README.mdx
-│   │   └── ...
-│   └── bwl-recht-sicherheit
-│       ├── arbeitsrecht
-│       │   └── README.mdx
-│       └── datenschutz
-│           └── README.mdx
+Du kannst diese Struktur direkt im VSCode-Terminal mit `bash` anlegen:
 
-├── 10-aufgaben
-│   ├── ap1
-│   │   ├── projektmanagement
-│   │   │   ├── aufgabe-1.mdx
-│   │   │   ├── aufgabe-2.mdx
-│   │   │   └── aufgabe-3.mdx
-│   ├── ap2
-│   │   ├── versionsverwaltung
-│   │   │   ├── aufgabe-1.mdx
-│   │   │   ├── aufgabe-2.mdx
-│   │   │   └── aufgabe-3.mdx
-│   └── bwl-recht-sicherheit
-│       └── datenschutz
-│           ├── aufgabe-1.mdx
-│           ├── aufgabe-2.mdx
-│           └── aufgabe-3.mdx
+```bash
+mkdir -p docs/09-katalog/ap1/projektmanagement
+mkdir -p docs/09-katalog/ap1/wirtschaftlichkeit
+mkdir -p docs/09-katalog/ap2/versionsverwaltung
+mkdir -p docs/09-katalog/ap2/programmierung
+mkdir -p docs/09-katalog/bwl-recht-sicherheit/arbeitsrecht
+mkdir -p docs/09-katalog/bwl-recht-sicherheit/datenschutz
+
+mkdir -p docs/10-aufgaben/ap1/projektmanagement
+mkdir -p docs/10-aufgaben/ap2/versionsverwaltung
+mkdir -p docs/10-aufgaben/bwl-recht-sicherheit/datenschutz
+```
+
+Alternativ: Lege dir ein Initialisierungsskript unter `scripts/init-structure.sh` an:
+
+```bash
+#!/bin/bash
+for base in ap1 ap2 bwl-recht-sicherheit; do
+  mkdir -p docs/09-katalog/$base
+  mkdir -p docs/10-aufgaben/$base
+done
+```
+
+Danach einfach ausführbar mit:
+
+```bash
+bash scripts/init-structure.sh
 ```
 
 ---
