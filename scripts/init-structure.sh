@@ -6,7 +6,7 @@ echo "📁 Erzeuge Verzeichnisse und .mdx-Dateien…"
 BEREICHE=("ap1" "ap2" "bwl-recht-sicherheit")
 
 THEMEN_ap1=("projektmanagement" "wirtschaftlichkeit")
-THEMEN_ap2=("versionsverwaltung" "programmierung")
+THEMEN_ap2=("kundenberatung" "entwicklung-it-loesungen" "qualitaetssicherung" "it-sicherheit" "betrieb-it-systeme" "speicherloesungen" "softwareloesungen" "kundenspezifische-anwendungen" "softwarequalitaet" "arbeitsrecht" "ausbildungsbetrieb" "arbeitsschutz" "umweltschutz" "digitales-zusammenarbeiten")
 THEMEN_bwl_recht_sicherheit=("arbeitsrecht" "datenschutz")
 
 for bereich in "${BEREICHE[@]}"; do
