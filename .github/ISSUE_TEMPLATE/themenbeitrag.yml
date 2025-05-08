@@ -8,10 +8,7 @@ body:
     attributes:
       label: Abschlussprüfungsteil (AP)
       description: Zu welchem Teil der Abschlussprüfung gehört dein Beitrag?
-      options:
-        - ap1
-        - ap2
-        - bwl-recht-sicherheit
+      options: [ap1, ap2, bwl-recht-sicherheit]
     validations:
       required: true
 
@@ -19,8 +16,7 @@ body:
     id: thema
     attributes:
       label: Thema (Slug)
-      description: Kurzer Slug für das Thema, z. B. `projektmanagement`, `softwareloesungen`
-      placeholder: projektmanagement
+      description: Slug für die spätere Datei und Ordnerstruktur, z. B. `versionsverwaltung`
     validations:
       required: true
 
@@ -28,8 +24,6 @@ body:
     id: title
     attributes:
       label: Titel des Beitrags
-      description: Klarer, sprechender Titel für das Thema
-      placeholder: Projektmanagement in der Praxis
     validations:
       required: true
 
@@ -37,41 +31,28 @@ body:
     id: tags
     attributes:
       label: Tags
-      description: Kommagetrennte Liste von Tags
-      placeholder: projektmanagement, netzplan, scrum
+      placeholder: git, github, commit
     validations:
       required: true
 
   - type: textarea
     id: beschreibung
     attributes:
-      label: Beitragstext / Beschreibung
-      description: Was soll inhaltlich im Beitrag enthalten sein? Skizziere kurz die geplanten Inhalte oder formuliere direkt den MDX-Inhalt.
-      placeholder: |
-        ## Einführung in das Projektmanagement  
-        Ein Projekt ist ein einmaliges Vorhaben, das sich durch bestimmte Merkmale wie Zielvorgabe, zeitliche Begrenzung und Ressourcenbindung auszeichnet…
-
+      label: Beitragstext (MDX)
     validations:
       required: true
 
   - type: textarea
     id: aufgaben
     attributes:
-      label: Aufgaben (3 Stück)
-      description: Gib drei Aufgabenstellungen zum Thema an, idealerweise mit Ziel, Schwierigkeit oder Einsatzszenario.
-      placeholder: |
-        1. Beschreibe die Unterschiede zwischen dem Wasserfallmodell und Scrum anhand eines Beispiels.
-        2. Erstelle einen Netzplan mit kritischem Pfad und Pufferzeitberechnung.
-        3. Erkläre das SMART-Prinzip anhand einer eigenen Projektidee.
-
+      label: Drei Aufgabenstellungen zum Beitrag
     validations:
       required: true
 
   - type: checkboxes
     id: einverstaendnis
     attributes:
-      label: Einverständnis zur Veröffentlichung
-      description: Ich bin damit einverstanden, dass mein Beitrag im Wiki unter MIT-Lizenz veröffentlicht wird.
+      label: Lizenz
       options:
-        - label: Ja, ich stimme der Veröffentlichung zu
+        - label: Ich stimme der Veröffentlichung unter MIT-Lizenz zu
           required: true
