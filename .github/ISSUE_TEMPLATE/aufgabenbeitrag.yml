@@ -1,0 +1,43 @@
+name: 📝 Aufgabenbeitrag einreichen
+description: Reiche eine konkrete Einzelaufgabe für das NADOO-Wiki ein
+title: "[Aufgabe] "
+labels: ["aufgabenbeitrag"]
+body:
+  - type: dropdown
+    id: ap
+    attributes:
+      label: Abschlussprüfungsteil (AP)
+      options: [ap1, ap2, bwl-recht-sicherheit]
+    validations:
+      required: true
+
+  - type: input
+    id: thema
+    attributes:
+      label: Thema (Slug)
+      placeholder: datenbanken
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Titel der Aufgabe
+    validations:
+      required: true
+
+  - type: textarea
+    id: aufgabe
+    attributes:
+      label: Aufgabenstellung
+      placeholder: Formuliere eine Aufgabe zur dritten Normalform…
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: einverstaendnis
+    attributes:
+      label: Lizenz
+      options:
+        - label: Ich stimme der Veröffentlichung unter MIT-Lizenz zu
+          required: true
