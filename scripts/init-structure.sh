@@ -1,19 +1,19 @@
+#!/usr/bin/env bash
+set -euo pipefail
 
+echo "📁 Erzeuge Verzeichnisse und .mdx-Dateien…"
 
+BEREICHE=("ap1" "ap2" "bwl-recht-sicherheit")
 
-#!/bin/bash
+THEMEN_ap1=("projektmanagement" "wirtschaftlichkeit")
+THEMEN_ap2=("versionsverwaltung" "programmierung")
+THEMEN_bwl_recht_sicherheit=("arbeitsrecht" "datenschutz")
 
-echo "📁 Erzeuge Verzeichnisstruktur und README.mdx-Dateien für Katalog und Aufgaben"
+for bereich in "${BEREICHE[@]}"; do
+  varname="THEMEN_${bereich//-/_}"
+  eval "themen=(\"\${${varname}[@]}\")"
 
-# Struktur für Themen (Katalog)
-declare -A katalog=(
-  ["ap1"]="projektmanagement wirtschaftlichkeit"
-  ["ap2"]="versionsverwaltung programmierung"
-  ["bwl-recht-sicherheit"]="arbeitsrecht datenschutz"
-)
-
-for bereich in "${!katalog[@]}"; do
-  for thema in ${katalog[$bereich]}; do
+  for thema in "${themen[@]}"; do
     pfad="docs/09-katalog/$bereich/$thema"
     mkdir -p "$pfad"
     cat <<EOF > "$pfad/README.mdx"
@@ -29,12 +29,7 @@ draft: true
 > Diese Datei dient als Ausgangspunkt für Inhalte zum Thema **$thema** im Bereich **$bereich**.
 
 EOF
-  done
-done
 
-# Struktur für Aufgaben
-for bereich in "${!katalog[@]}"; do
-  for thema in ${katalog[$bereich]}; do
     aufgabenpfad="docs/10-aufgaben/$bereich/$thema"
     mkdir -p "$aufgabenpfad"
     for i in {1..3}; do
@@ -56,4 +51,4 @@ EOF
   done
 done
 
-echo "✅ Struktur und Beispiel-Dateien wurden erstellt."
+echo "✅ Struktur wurde erstellt."
